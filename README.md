@@ -10,11 +10,11 @@ When I talk of object oriented it means putting things in classes and in python 
 			It's general to all objects.
 	object: This is the instance of a class(the specific thing)
 			Each object is unique in its own way.
-	class an instance attributes:
-		In a lay mans language I would refer to atrributes as variables(`forgive my manners its for easy understanding`)
+	class and instance attributes:
+		In a lay mans language I would refer to attributes as variables(`forgive my manners its for easy understanding`)
 		class attributes are owned by the class itself and are shared by all instances(objects) of a class.
 		They have the same value for all instances and are defined up above all methods, right below the class header.
-		Instance atrributes are owned by specific instance of a class.
+		Instance attributes are owned by specific instance of a class.
 
 
 	Objects are instatiated by the __init__() method.
